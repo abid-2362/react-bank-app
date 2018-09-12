@@ -1,0 +1,1 @@
+var siteAddress = ''; // enter site's full address
